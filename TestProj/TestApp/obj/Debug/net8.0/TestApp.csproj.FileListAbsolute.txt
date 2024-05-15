@@ -1,0 +1,14 @@
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\bin\Debug\net8.0\TestApp.exe
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\bin\Debug\net8.0\TestApp.deps.json
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\bin\Debug\net8.0\TestApp.runtimeconfig.json
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\bin\Debug\net8.0\TestApp.dll
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\bin\Debug\net8.0\TestApp.pdb
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\obj\Debug\net8.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\obj\Debug\net8.0\TestApp.AssemblyInfo.cs
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\obj\Debug\net8.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\obj\Debug\net8.0\TestApp.dll
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\obj\Debug\net8.0\refint\TestApp.dll
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\obj\Debug\net8.0\TestApp.pdb
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\obj\Debug\net8.0\TestApp.genruntimeconfig.cache
+C:\Users\Python\Desktop\MyAppFolder\TestProj\TestApp\obj\Debug\net8.0\ref\TestApp.dll
