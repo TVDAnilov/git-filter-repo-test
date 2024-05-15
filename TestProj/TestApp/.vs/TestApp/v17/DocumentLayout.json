@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Python\\Desktop\\MyAppFolder\\TestProj\\TestApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1168874B-0666-4B9C-9502-1EC92A03572A}|TestApp.csproj|c:\\users\\python\\desktop\\myappfolder\\testproj\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1168874B-0666-4B9C-9502-1EC92A03572A}|TestApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE0AD224-E3FD-4047-88F2-BB392364E3CF}|..\\TestApp1\\TestApp1.csproj|c:\\users\\python\\desktop\\myappfolder\\testproj\\testapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE0AD224-E3FD-4047-88F2-BB392364E3CF}|..\\TestApp1\\TestApp1.csproj|c:\\users\\python\\desktop\\myappfolder\\testproj\\testapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1168874B-0666-4B9C-9502-1EC92A03572A}|TestApp.csproj|c:\\users\\python\\desktop\\myappfolder\\testproj\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1168874B-0666-4B9C-9502-1EC92A03572A}|TestApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +23,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Python\\Desktop\\MyAppFolder\\TestProj\\TestApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TestApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Python\\Desktop\\MyAppFolder\\TestProj\\TestApp1\\Program.cs",
+              "RelativeToolTip": "..\\TestApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:34:34.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Python\\Desktop\\MyAppFolder\\TestProj\\TestApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Python\\Desktop\\MyAppFolder\\TestProj\\TestApp\\Program.cs",
@@ -30,19 +43,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T17:30:15.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Python\\Desktop\\MyAppFolder\\TestProj\\TestApp1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\TestApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Python\\Desktop\\MyAppFolder\\TestProj\\TestApp1\\Program.cs",
-              "RelativeToolTip": "..\\TestApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:31:09.469Z",
               "EditorCaption": ""
             }
           ]
